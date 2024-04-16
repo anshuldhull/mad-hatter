@@ -13,3 +13,12 @@
     "express": "^4.19.2"
   }
 }
+
+
+{
+  "name": "app",
+  "version": "1.0.0",
+  "dependencies": {
+    "aws-sdk": "^2.1000.0"
+  }
+}
